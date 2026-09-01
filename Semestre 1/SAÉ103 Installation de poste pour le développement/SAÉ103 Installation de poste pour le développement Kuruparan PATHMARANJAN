@@ -1,6 +1,6 @@
 # Installation de poste pour le développement
 
-Projet réalisé dans le cadre de la SAE S1.03.
+Projet réalisé dans le cadre de la SAE S1.03 à l’Université Sorbonne Paris Nord.
 
 ## Description
 
@@ -8,9 +8,9 @@ Ce projet consiste à installer et configurer un poste de travail dédié au dé
 
 L’objectif était de mettre en place un environnement de travail complet permettant d’utiliser efficacement les outils et technologies nécessaires à l’apprentissage de la programmation durant la formation.
 
-J’ai commencé par installer un système d’exploitation **Linux** sur les machines à l’aide d’une **clé USB bootable**. J’ai ensuite configuré les différents paquets et utilitaires nécessaires à l’utilisation des commandes système et des applications.
+J’ai commencé par installer un système d’exploitation Linux sur les machines à l’aide d’une clé USB bootable. J’ai ensuite configuré les différents paquets et utilitaires nécessaires à l’utilisation des commandes système et des applications.
 
-Enfin, j’ai installé les différents **outils et environnements de développement** indispensables à l’utilisation des langages de programmation étudiés au cours du cursus.
+Enfin, j’ai installé les différents outils et environnements de développement indispensables à l’utilisation des langages de programmation étudiés au cours du cursus.
 
 ## Compétence
 
