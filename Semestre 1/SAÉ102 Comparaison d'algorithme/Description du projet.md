@@ -1,6 +1,6 @@
 # Le nouveau choixpeau pas magique de Poudlard – SAE S1.02
 
-Projet réalisé dans le cadre de la SAE S1.02 à l’Université Sorbonne Paris Nord.
+Projet réalisé dans le cadre de la SAE S1.02 à l’Université Sorbonne Paris Nord (IUT de Villetaneuse).
 
 ## Description
 
