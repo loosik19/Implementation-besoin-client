@@ -1,6 +1,6 @@
 # Installation de poste pour le développement
 
-Projet réalisé dans le cadre de la SAE S1.03 à l’Université Sorbonne Paris Nord.
+Projet réalisé dans le cadre de la SAE S1.03 à l’Université Sorbonne Paris Nord (IUT de Villetaneuse).
 
 ## Description
 
